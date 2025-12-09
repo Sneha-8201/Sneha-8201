@@ -11,7 +11,7 @@
 ## 🚀 Who Am I?
 
 I’m a **Full-Stack Software Engineer** with 2+ years of experience building clean, scalable, and user-centric digital products.  
-My work blends **engineering + creativity** — from coding full-stack solutions to crafting SEO-optimized content platforms.
+My work blends **engineering + creativity** from coding full-stack solutions to crafting SEO-optimized content platforms.
 
 I believe in **impactful tech**, thoughtful design, and solving real problems with simple, scalable solutions.
 
