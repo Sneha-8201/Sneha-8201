@@ -17,28 +17,38 @@ I believe in **impactful tech**, thoughtful design, and solving real problems wi
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-### **Frontend Magic**
-✨ HTML • CSS • JavaScript  
-⚡ Angular • React  
-🎨 Bootstrap • Responsive UI
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Backend Power**
-🧩 PHP • Laravel  
-🛡️ ASP.NET  
-🔗 REST APIs
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### **Databases**
-🗄️ MySQL • PostgreSQL • MongoDB
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Extras That Elevate My Work**
-⚙️ AJAX • JSON  
-🧩 WordPress Development  
-📈 SEO Strategy  
-✍️ Technical & Creative Content Writing
+### 🔧 Additional Skills
 
----
+![GAM 360](https://img.shields.io/badge/GAM%20360-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Search Engine Monetization](https://img.shields.io/badge/Search%20Engine%20Monetization-FFB300?style=for-the-badge&logo=google&logoColor=black)
+![Google AdSense](https://img.shields.io/badge/Google%20AdSense-0F9D58?style=for-the-badge&logo=googleadsense&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F57C00?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge)
+![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Content Writing](https://img.shields.io/badge/Content%20Writing-FFB400?style=for-the-badge)
+
 
 ## 💡 Highlighted Projects
 
